@@ -1,0 +1,5 @@
+=== mypy ===
+Success: no issues found in 8 source files
+
+=== ruff ===
+All checks passed!

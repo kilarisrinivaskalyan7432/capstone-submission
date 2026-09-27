@@ -1,0 +1,4 @@
+PERTURBATION: premium_amount=None
+result_type=RetryFutileEscalation
+api_calls=1
+result=RetryFutileEscalation(policy_id='POL-2025-001', field='premium_amount', category='missing_source', detected_pattern='premium_amount_absent', reason="Field 'premium_amount' returned null — the source document does not contain this information. Retry is futile; escalate to human review.")
